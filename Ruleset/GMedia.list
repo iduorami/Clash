@@ -293,6 +293,11 @@ DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv
 
+# > XVideos
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos.red
+DOMAIN-SUFFIX,xvideos-cdn.com
+
 # > YouTube
 DOMAIN-KEYWORD,youtube
 DOMAIN,youtubei.googleapis.com
