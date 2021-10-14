@@ -249,7 +249,6 @@ DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipaddress.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipn.li
-DOMAIN-SUFFIX,ip.skk.moe
 DOMAIN-SUFFIX,is.gd
 DOMAIN-SUFFIX,ishowsapp.com
 DOMAIN-SUFFIX,issuu.com
@@ -399,6 +398,7 @@ DOMAIN-SUFFIX,shutterstock.com
 DOMAIN-SUFFIX,sidelinesnews.com
 DOMAIN-SUFFIX,simp.ly
 DOMAIN-SUFFIX,simplenote.com
+DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,sketchappsources.com
 DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,slack-edge.com
