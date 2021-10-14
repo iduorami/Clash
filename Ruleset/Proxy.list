@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,anthonycalzadilla.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,api.tiktokv.com
@@ -247,7 +248,6 @@ DOMAIN-SUFFIX,instructables.com
 DOMAIN-SUFFIX,io.io
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipaddress.com
-DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,is.gd
 DOMAIN-SUFFIX,ishowsapp.com
