@@ -236,6 +236,7 @@ DOMAIN-SUFFIX,itgonglun.com
 DOMAIN-SUFFIX,itun.es
 DOMAIN-SUFFIX,ixquick.com
 DOMAIN-SUFFIX,j.mp
+DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,js.revsci.net
 DOMAIN-SUFFIX,jshint.com
@@ -647,6 +648,9 @@ DOMAIN-SUFFIX,webrtc.org
 # > V2EX
 DOMAIN-SUFFIX,v2ex.com
 
+# > Others
+DOMAIN-SUFFIX,rouman5.com
+
 # > Amazon
 IP-CIDR,13.32.0.0/16,no-resolve
 IP-CIDR,13.33.0.0/16,no-resolve
@@ -705,3 +709,4 @@ IP-CIDR,74.86.0.0/16,no-resolve
 IP-CIDR,75.126.0.0/16,no-resolve
 IP-CIDR,174.37.0.0/16,no-resolve
 IP-CIDR,208.43.0.0/16,no-resolve
+
