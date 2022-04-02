@@ -1,6 +1,6 @@
 # > Ookla
-DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-KEYWORD,speedtest
 
 # > Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
