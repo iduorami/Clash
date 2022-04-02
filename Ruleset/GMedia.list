@@ -54,7 +54,6 @@ DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN-SUFFIX,apple.news
-PROCESS-NAME,news
 
 # > Apple TV
 DOMAIN,hls-amt.itunes.apple.com
@@ -64,7 +63,6 @@ DOMAIN,play-edge.itunes.apple.com
 DOMAIN,tv.applemusic.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
-PROCESS-NAME,tv
 
 # > Bahamut
 DOMAIN,bahamut.akamaized.net
