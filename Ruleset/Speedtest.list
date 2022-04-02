@@ -1,9 +1,6 @@
-# > Fast
-DOMAIN-SUFFIX,fast.com
-
-# > Speedtest by Ookla
+# > Ookla
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
 
-# > Speed Test by Cloudflare
+# > Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
