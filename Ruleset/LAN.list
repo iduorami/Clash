@@ -2,6 +2,8 @@
 DOMAIN,instant.arubanetworks.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,localhost
 DOMAIN-SUFFIX,acl4.ssr
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,home.arpa
