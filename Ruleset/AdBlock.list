@@ -99,6 +99,7 @@ IP-CIDR,223.87.182.101/32,no-resolve
 IP-CIDR,223.87.182.102/32,no-resolve
 IP-CIDR,223.87.182.11/32,no-resolve
 IP-CIDR,223.87.182.52/32,no-resolve
+<<<<<<< HEAD
 
 # > MangoTV
 DOMAIN-SUFFIX,ads-api.videojj.com
@@ -193,6 +194,8 @@ DOMAIN-SUFFIX,jp.as.pptv.com
 DOMAIN-SUFFIX,pp2.pptv.com
 DOMAIN-SUFFIX,stat.pptv.com
 DOMAIN-SUFFIX,static.g.pptv.com
+=======
+>>>>>>> 2ab377d2c7e63ee37a960fe7e849f369e33f204b
 
 # > Site
 DOMAIN-SUFFIX,deliver.ifeng.com
@@ -1269,7 +1272,11 @@ DOMAIN-SUFFIX,adsyndication.msn.com
 DOMAIN-SUFFIX,adsys.chinacloudapp.cn
 DOMAIN-SUFFIX,adsys.sinovision.net
 DOMAIN-SUFFIX,adtaily.com
+<<<<<<< HEAD
 DOMAIN-SUFFIX,ad-tech.nbcuni.co
+=======
+DOMAIN-SUFFIX,ad-tech.nbcuni.com
+>>>>>>> 2ab377d2c7e63ee37a960fe7e849f369e33f204b
 DOMAIN-SUFFIX,adtechjp.com
 DOMAIN-SUFFIX,adtechus.com
 DOMAIN-SUFFIX,adtest.theonion.com
@@ -2479,6 +2486,10 @@ DOMAIN-SUFFIX,cpx24.com
 DOMAIN-SUFFIX,cqfangduan.com
 DOMAIN-SUFFIX,cqftonline.com
 DOMAIN-SUFFIX,cqhnm.com
+<<<<<<< HEAD
+=======
+DOMAIN-SUFFIX,cqhot.club
+>>>>>>> 2ab377d2c7e63ee37a960fe7e849f369e33f204b
 DOMAIN-SUFFIX,cqsta.com
 DOMAIN-SUFFIX,cqyhd.com
 DOMAIN-SUFFIX,cr.m.liebao.cn
@@ -5256,7 +5267,10 @@ DOMAIN-SUFFIX,mbd.weathercn.com
 DOMAIN-SUFFIX,mbrowser.news.haosou.com
 DOMAIN-SUFFIX,mbrowser.news.so.com
 DOMAIN-SUFFIX,mbs.weathercn.com
+<<<<<<< HEAD
 DOMAIN-SUFFIX,mc.hujiang.com
+=======
+>>>>>>> 2ab377d2c7e63ee37a960fe7e849f369e33f204b
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,mclick.simba.taobao.com
 DOMAIN-SUFFIX,mcore.vcgame.cn
@@ -7137,6 +7151,10 @@ DOMAIN-SUFFIX,tradeadexchange.com
 DOMAIN-SUFFIX,tradeccl.com
 DOMAIN-SUFFIX,trafficfactory.biz
 DOMAIN-SUFFIX,trafficjam.cn
+<<<<<<< HEAD
+=======
+DOMAIN-SUFFIX,trafficjunky.com
+>>>>>>> 2ab377d2c7e63ee37a960fe7e849f369e33f204b
 DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,trafficmp.com
 DOMAIN-SUFFIX,tralog.ganji.com
@@ -8185,6 +8203,10 @@ DOMAIN-SUFFIX,zzz7.52896368.com
 DOMAIN-SUFFIX,zzzzz4.52896368.com
 
 # > Baidu
+<<<<<<< HEAD
+=======
+DOMAIN-SUFFIX,baidustatic.com
+>>>>>>> 2ab377d2c7e63ee37a960fe7e849f369e33f204b
 DOMAIN,duclick.baidu.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
@@ -8227,8 +8249,14 @@ DOMAIN,yt-adp.nosdn.127.net
 # > Zhihu
 DOMAIN,mqtt.zhihu.com
 DOMAIN,sugar.zhihu.com
+<<<<<<< HEAD
 DOMAIN-SUFFIX,xdrig.com
 
+=======
+DOMAIN,zhihu-analytics.zhihu.com
+DOMAIN,zhihu-web-analytics.zhihu.com
+DOMAIN-SUFFIX,xdrig.com
+>>>>>>> 2ab377d2c7e63ee37a960fe7e849f369e33f204b
 IP-CIDR,39.107.15.115/32,no-resolve
 IP-CIDR,47.89.59.182/32,no-resolve
 IP-CIDR,103.49.209.27/32,no-resolve
@@ -8262,6 +8290,7 @@ IP-CIDR,221.6.4.148/32,no-resolve
 IP-CIDR,114.247.28.96/32,no-resolve
 IP-CIDR,221.179.131.72/32,no-resolve
 IP-CIDR,221.179.140.145/32,no-resolve
+<<<<<<< HEAD
 
 # > Dr.Peng
 IP-CIDR,10.72.25.0/24,no-resolve
@@ -8274,3 +8303,5 @@ IP-CIDR,124.14.21.151/32,no-resolve
 IP-CIDR,180.166.52.24/32,no-resolve
 IP-CIDR,220.115.251.25/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
+=======
+>>>>>>> 2ab377d2c7e63ee37a960fe7e849f369e33f204b
