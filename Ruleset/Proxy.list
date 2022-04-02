@@ -591,7 +591,7 @@ DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,zeutch.com
 DOMAIN-SUFFIX,zynamics.com
 
-# > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
+# > Force some domains which are fucked by GFW while resolving DNS
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
