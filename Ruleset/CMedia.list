@@ -53,6 +53,10 @@ DOMAIN,3geauymtsgrzdnqbofa5dy.ourdvsss.com
 DOMAIN,3geauymtsgrzdrcbzfahue.ourdvsss.com
 DOMAIN,3geauymtsgrzdrcbzfahuk.ourdvsss.com
 DOMAIN,4go41hcjtgazdoctqge4o.ourdvsss.com
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
@@ -121,11 +125,19 @@ DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,71edge.net
 DOMAIN-SUFFIX,aianno.cn
 DOMAIN-SUFFIX,aianno.com
+DOMAIN-SUFFIX,aiqiyicloud-mgmt.com
+DOMAIN-SUFFIX,aiqiyicloud.com
+DOMAIN-SUFFIX,aiqiyicloud.net
 DOMAIN-SUFFIX,baiying.com
 DOMAIN-SUFFIX,gitv.cn
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,ibkstore.com
 DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyi.demo.uwp
+DOMAIN-SUFFIX,iqiyiedge.com
+DOMAIN-SUFFIX,iqiyiedge.net
+DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,jiangbing.cn
 DOMAIN-SUFFIX,pps.tv
 DOMAIN-SUFFIX,ppsimg.com
@@ -135,15 +147,20 @@ DOMAIN-SUFFIX,ppstream.com.cn
 DOMAIN-SUFFIX,ppstream.net
 DOMAIN-SUFFIX,ppstream.net.cn
 DOMAIN-SUFFIX,ppsurl.com
+DOMAIN-SUFFIX,qiyi.cn
+DOMAIN-SUFFIX,qiyi.com
+DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,qy.com
 DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,suike.cn
 DOMAIN-KEYWORD,qiyi
 IP-CIDR,101.224.0.0/13,no-resolve
+IP-CIDR,103.44.56.0/22,no-resolve
 IP-CIDR,103.5.34.153/32,no-resolve
 IP-CIDR,104.109.129.153/32,no-resolve
 IP-CIDR,110.238.107.47/32,no-resolve
-IP-CIDR,118.26.32.178/32,no-resolve
+IP-CIDR,118.26.120.0/24,no-resolve
+IP-CIDR,118.26.32.0/23,no-resolve
 IP-CIDR,119.176.0.0/12,no-resolve
 IP-CIDR,203.211.4.169/32,no-resolve
 IP-CIDR,203.211.4.193/32,no-resolve
@@ -154,7 +171,10 @@ IP-CIDR,210.201.32.11/32,no-resolve
 IP-CIDR,210.201.32.8/32,no-resolve
 IP-CIDR,210.71.227.200/32,no-resolve
 IP-CIDR,210.71.227.202/32,no-resolve
+IP-CIDR,223.119.62.224/28,no-resolve
 IP-CIDR,23.211.15.99/32,no-resolve
+IP-CIDR,23.40.241.251/32,no-resolve
+IP-CIDR,23.40.242.10/32,no-resolve
 IP-CIDR,23.53.32.88/32,no-resolve
 PROCESS-NAME,com.qiyi.video
 
@@ -280,7 +300,6 @@ DOMAIN-SUFFIX,music.126.com
 DOMAIN-SUFFIX,music.126.net
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,music.163.com.163jiasu.com
-DOMAIN-KEYWORD,netease
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.13/32,no-resolve
 IP-CIDR,103.126.92.132/31,no-resolve
@@ -298,6 +317,7 @@ IP-CIDR,39.105.63.80/32,no-resolve
 IP-CIDR,45.254.48.1/32,no-resolve
 IP-CIDR,47.100.127.239/32,no-resolve
 IP-CIDR,59.111.128.0/17,no-resolve
+IP-CIDR,59.111.19.33/32,no-resolve
 IP-CIDR,59.111.21.14/31,no-resolve
 
 # > Tencent Video
